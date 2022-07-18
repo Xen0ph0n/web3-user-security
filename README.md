@@ -212,12 +212,12 @@ Trust but Verify, then Verify again.
 
 Your "Good Enough" hybrid wallet set up is now complete. You should have: 
 
-Mint-Burner --> Software Wallet (Optionally mint-burner.xxxxx.eth)
-Main HW Account --> Ledger -> XXXXX.eth
-Vault HW Account ---> Ledger -> vault.xxxxx.eth
-DeFi HW Account --> Ledger -> defi.XXXXX.eth
-p2e HW Account ---> Ledger -> p2e.xxxxx.eth
-XXX HW Account ---> Ledger -> XXX.xxxxx.eth
+1) Mint-Burner --> Software Wallet (Optionally mint-burner.xxxxx.eth)
+2) Main HW Account --> Ledger -> XXXXX.eth
+3) Vault HW Account ---> Ledger -> vault.xxxxx.eth
+4) DeFi HW Account --> Ledger -> defi.XXXXX.eth
+5) p2e HW Account ---> Ledger -> p2e.xxxxx.eth
+6) XXX HW Account ---> Ledger -> XXX.xxxxx.eth
 
 This is easily extensible for any future eth/EVM based usecases you might encounter, additionally these addresses (hex not ENS) will proxy to ETH L2's such as polygon, arbitrum, etc. Making secure use case based segmentation easy and cohesive. 
 
