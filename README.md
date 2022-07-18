@@ -279,7 +279,11 @@ Please use your own judgement as to the amount of time and value risked or locke
 
 
 **Links**
+
 [https://app.forta.network/](https://app.forta.network/)
+
 [https://a16z.com/2022/04/23/web3-security-crypto-hack-attack-lessons/](https://a16z.com/2022/04/23/web3-security-crypto-hack-attack-lessons/)
+
 [https://medium.com/immunefi/security-best-practices-of-web3-wallets-f167eadd9037](https://medium.com/immunefi/security-best-practices-of-web3-wallets-f167eadd9037)
+
 [https://github.com/crytic/blockchain-security-contacts](https://github.com/crytic/blockchain-security-contacts)
