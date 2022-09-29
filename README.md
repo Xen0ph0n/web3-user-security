@@ -9,6 +9,7 @@
 4. "Good Enough" Hybrid Hardware and Software Wallet Configuration
   - Configure Software Wallet 
   - Configure Hardware Wallet 
+  - Proper Seed Phrase Storage
   - Purchase ENS 
   - Configure Subdomains and map to Hardware Accounts
   - Test Transfers 
@@ -113,6 +114,7 @@ This will be accomplished with the following tools:
 1) Metamask (Chrome or Firefox) [https://metamask.io/download/](https://metamask.io/download/)
 2) Etheerium Name System ENS [https://app.ens.domains/](https://app.ens.domains/)
 3) Ledger Nano X (any will work) and Ledger Live [https://www.ledger.com/ledger-live](https://www.ledger.com/ledger-live)
+4) Fireproof Mnemonic Seedphrase Storage [https://www.ellipal.com/products/ellipal-mnemonic-metal](https://www.ellipal.com/products/ellipal-mnemonic-metal) (any will do)
 
 NOTE: If you don't yet have, or chose not to purchase a hardware wallet, you can still implement and ENS and multiple use case specific accounts/subdomains but it is highly recommended that a hardware wallet be utilized. 
 
@@ -161,6 +163,18 @@ You may determine if these use cases are relevant to you or not and either skip 
 
 
 You should now have one software wallet which is labeled "mint-burner" and multiple hardware accounts "main" "vault" "defi" "p2e" etc. These latter should all be visible in Ledger Live, and all should be visible in MetaMask. All accounts should now have a small amount of ETH in them as well (.1). 
+
+### Proper Seed Phrase Storage
+
+Your seed phrase is the key to all of your wallets (public addresses), and should be guarded to the degree that makes sense for the value of your crypto portfolio. In addition to the "Never Do's" listed above, it's important to store your seed-phrase (hardware wallet will generate one seed phrase, and your software wallet will generate one, we will focus on the hardware wallet seed phrase below). 
+
+- [ ] Purchase a fire-proof Mnemonic device, reccomended is the following as it's robust, allows for an additional lock, and is easy to configure or re-configure. However any metal device will do, unlike your wallet you will configure this fully and there is no risk of purchasing from a middleman like Amazon.com [https://www.ellipal.com/products/ellipal-mnemonic-metal](https://www.ellipal.com/products/ellipal-mnemonic-metal) 
+- [ ] Record your seed phrase (both hardware and software) on seperate pieces of paper, do not enter these words into an electronic device or take a photograph of them. 
+- [ ] Using the fire-proof Mnemonic device, transfer the first X letters of each of the 24 words to the device
+- [ ] Test the recovery phrase in your ledger or other hardware wallet. 
+- [ ] Store metal Mnemonic device in a safe (or safe place with a smaller lock on the device if physical safe is unavailable to you)
+- [ ] Burn the paper with your hardware wallet seed phrase. 
+- [ ] ***Optional, repeat these steps for your software wallet seed phrase. However generally storing this phrase on paper along with your metal Mnemonic device, should be sufficent. Your software wallet should only be used for temporary and low value transactions as outlined below.
 
 ### Register ENS Domain 
 
