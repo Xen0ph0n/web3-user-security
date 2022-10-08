@@ -23,6 +23,10 @@
   - Tips
   - Links
 
+![Basic Portfolio Security Image](FejhbubXEAE661h.jpg "Basic Overview")
+
+(Note: In this guide we will use one hardware wallet)
+
 ## Summary and Overview of Threat Landscape (Why Should I Care?!) 
 
 Web3 (connectivity between blockchain and applications) and the evolving NFT (non-fungible token) and P2E (play 2 earn) space require that users own the full responsibility for the security of their increasingly valuable assets. There is no FDIC insurance, nor second chances should your wallet be compromised, or permissions unknowingly granted to a scammer. This is a new responsibility, not previously shouldered on "Consumers/Users". YOU are now the target, not your bank or employer.
